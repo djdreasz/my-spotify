@@ -1,20 +1,20 @@
-# my-spotify
+# My Spotify
 
-This is a professional implementation of Spotify.
+This repository contains a professional implementation of Spotify, showcasing features and functionalities.
 
 ## Features
-- Search for songs
-- Create playlists
+- User authentication
+- Playlist management
+- Music streaming
 
-## Technical Stack
-- React
-- Node.js
+## Technology Stack
+- React for frontend
+- Node.js for backend
+- MongoDB for database
 
 ## Usage
-1. Clone the repository
-2. Install dependencies (`npm install`)
-3. Run the app (`npm start`)
+Clone the repository and follow the instructions to run the application locally.
 
 ## Future Plans
-- Add user authentication
-- Enhance UI/UX
+- Add more music features
+- Implement user recommendations
